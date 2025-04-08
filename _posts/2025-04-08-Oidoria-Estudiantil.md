@@ -14,8 +14,8 @@
      <div class="photo-gallery">
         <h2 class="section-title">Galería de Fotos</h2>
         <div class="photo-container">
-            <img src="images/FFyL_asamblea_1.jpeg" alt="Asamblea estudiantil" class="photo">
-            <img src="images/Ollita_Informacion_2.jpeg" alt="Ollita de información" class="photo">
+            <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+       <img src=https://github.com/librooo17/skills-github-pages/blob/main/_posts/images/FFyL%20asamblea%201.jpeg alt=celebrate width=300 align=right>
             <img src="images/Ollita_informacion_1.jpeg" alt="Ollita de información" class="photo">
     </div>
      <!-- Assembly Minutes Section -->
