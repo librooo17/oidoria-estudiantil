@@ -18,7 +18,7 @@
                 </div>
             <div class="photo-item">
                 <img src="https://raw.githubusercontent.com/librooo17/skills-github-pages/main/_posts/images/FFyL%20asamblea%201.jpeg" alt="Evento 2">
-                <div class="caption">Reunión de Trabajo</div>
+                <div class="caption">Información de la asamblea</div>
             </div>
                 <img src="https://github.com/librooo17/oidoria-estudiantil/blob/main/_posts/images/Ollita%20Informacion%202.jpeg" alt="Asamblea folleto">
                 <div class="caption">Ollita</div>
