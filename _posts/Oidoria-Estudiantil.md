@@ -21,7 +21,7 @@
                 <div class="caption">Reunión de Trabajo</div>
             </div>
                 <img src="https://github.com/librooo17/oidoria-estudiantil/blob/main/_posts/images/Ollita%20Informacion%202.jpeg" alt="Asamblea folleto">
-                <div class="caption">Asamblea General</div>
+                <div class="caption">Ollita</div>
             <div class="photo-item">
                 <img src="https://github.com/librooo17/oidoria-estudiantil/blob/main/_posts/images/Ollita%20informacion%201.jpeg" alt="Evento 3">
                 <div class="caption">Ollita Informativa</div>
