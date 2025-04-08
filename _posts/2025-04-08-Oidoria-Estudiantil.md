@@ -45,12 +45,7 @@
         .photo {
             width: 48%;
             border: 1px solid #ddd;
-        }
-    </style>
-</head>
-<body>
-    <!-- Title Section -->
-    <h1>Oidoría Estudiantil </h1>
+   
     <p class="description">Una página para escuchar tus quejas, compartir información sobre las asambleas, y difundir información para organizarse. Hecho por y para lxs estudiantes de la FFyL.</p>
     
     <!-- Links Section (now first) -->
